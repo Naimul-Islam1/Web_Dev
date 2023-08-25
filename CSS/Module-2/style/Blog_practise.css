@@ -1,0 +1,45 @@
+/* Universal selector*/
+*{
+     margin: 0px;
+     padding: 0px;
+     border: 0px;
+    
+}
+.section{
+     display: contents;
+     
+}
+.heading_pera{
+     height: 400px;
+     width: 100%;
+     display: flex;
+     justify-content: space-between;
+     flex-direction: row;
+}
+.heading_pera p {
+     margin: 10px;
+     border: 2px solid springgreen;
+     padding: 10px;
+     text-align: justify;
+     width: 33%;
+     height: 60vh;
+     overflow: scroll;
+}
+#blog1{
+     background-image: url(../../../HTML/Module-1/Ai.jpeg);
+     background-size:cover;
+     background-repeat: no-repeat;
+}
+#border_added{
+     border: 5px solid rgb(239, 81, 107);
+     border-radius: 10px;
+     /* box-shadow: 10px 6px 10px 5px black; */
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+span{
+     background-color: salmon;
+}
+img{
+     margin: 10px 10px 10px;
+}
+box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
