@@ -72,7 +72,7 @@
 
  /* Services */
  .service-container{
-     background-image: url(../../Project_file/Digital-Product-b8-test/images/background.png), linear-gradient(45deg,rgb(5, 5, 5), #2e2e2e);;
+     background-image: url(../../Project_file/Digital-Product-b8-test/images/background.png);
      color: white;
      padding: 50px;
  }
